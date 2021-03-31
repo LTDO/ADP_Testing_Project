@@ -6,8 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ADP_Testing_Project" />
+        <module name="StudentAccount" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ADP_Testing_Project" target="11" />
+      <module name="StudentAccount" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
