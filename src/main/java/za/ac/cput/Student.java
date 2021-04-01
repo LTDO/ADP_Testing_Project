@@ -1,5 +1,8 @@
 package za.ac.cput;
-
+/*
+ author marco mulonday
+ 219049505
+ */
 
 public class Student {
     private String name;
@@ -22,7 +25,8 @@ public class Student {
     public void setStudentNumber(long studentNumber) {
         this.studentNumber = studentNumber;
     }
-    @Override
+
+
     public String toString() {
         return "Student{" +
                 "name='" + name + '\'' +
