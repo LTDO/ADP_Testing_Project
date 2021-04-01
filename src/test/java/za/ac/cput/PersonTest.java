@@ -14,7 +14,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 class PersonTest {
 
     @Test
-    public void oestEquality(){
+    public void testEquality(){
 
         Person person1 = new Person("Lunga", 20);
         Person person2 = new Person("ovayo", 20);

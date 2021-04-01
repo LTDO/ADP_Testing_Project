@@ -6,7 +6,6 @@
  * Disabling Test
  */
 
-//This class is for Disabling Test
 package za.ac.cput;
 public class JUnitMessage {
 
@@ -16,6 +15,9 @@ public class JUnitMessage {
         this.message = message;
     }
 
+    public static void main(String[] args) {
+
+    }
     public String printMessage(){
 
         System.out.println(message);

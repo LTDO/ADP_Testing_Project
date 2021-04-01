@@ -1,4 +1,3 @@
-package za.ac.cput;
 /**
  * Person.java
  * This is a concrete class for a Person object
@@ -7,6 +6,7 @@ package za.ac.cput;
  * ObjectEquality
  */
 
+package za.ac.cput;
 
 public class Person {
     private final String name;
