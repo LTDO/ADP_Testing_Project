@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-.idea/workspace.xml
-.idea/compiler.xml
-.idea/misc.xml
-.ADP_Testing_Project.iml
-=======
->>>>>>> master
+.idea
 
 # Compiled class file
 *.class
