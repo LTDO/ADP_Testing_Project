@@ -1,4 +1,7 @@
 .idea/workspace.xml
+.idea/compiler.xml
+.idea/misc.xml
+ADP_Testing_Project.iml
 
 # Compiled class file
 *.class
